@@ -23,8 +23,12 @@ public class MemberController {
 
     }
 
-    public void HelloWorld(){
+    public void HelloWorld() {
         System.out.println("Hello World");
+    }
+    @GetMapping("/kkk")
+    public void update(){
+
     }
 
 
