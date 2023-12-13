@@ -40,5 +40,9 @@ public class MemberController {
 
     }
 
+    public void pullCheck1(){
+        System.out.println("pull check1");
+    }
+
 
 }
