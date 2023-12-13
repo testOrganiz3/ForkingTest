@@ -18,5 +18,10 @@ public class MemberController {
         return memberService.getMember(id);
     }
 
+    @DeleteMapping("/member/{id}")
+    public void Delete(){
+
+    }
+
 
 }
