@@ -31,5 +31,9 @@ public class MemberController {
 
     }
 
+    public void ByeWorld(){
+        System.out.println("Bye World");
+    }
+
 
 }
