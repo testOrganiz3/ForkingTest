@@ -23,5 +23,10 @@ public class MemberController {
 
     }
 
+    @GetMapping("/kkk")
+    public void update(){
+
+    }
+
 
 }
