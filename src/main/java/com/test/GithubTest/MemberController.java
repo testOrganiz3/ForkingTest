@@ -40,5 +40,9 @@ public class MemberController {
 
     }
 
+    public void localPull1(){
+        System.out.println("LocalPull1");
+    }
+
 
 }
