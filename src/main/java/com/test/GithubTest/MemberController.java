@@ -31,8 +31,13 @@ public class MemberController {
 
     }
 
+
+    public void updateWorld() {
+        System.out.println("update World");
+    }
     public void ByeWorld(){
         System.out.println("Bye World");
+
     }
 
 
