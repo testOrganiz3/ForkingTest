@@ -58,5 +58,9 @@ public class MemberController {
 
     }
 
+    public void upstreamPullCheck3(){
+        System.out.println("upstream Pull check3");
+    }
+
 
 }
