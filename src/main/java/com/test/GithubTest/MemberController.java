@@ -94,6 +94,9 @@ public class MemberController {
         System.out.println("originLocalPull6");
 
     }
+    public void upstreamPullCheck8(){
+        System.out.println("upstream Pull Check");
+    }
 
 
 
