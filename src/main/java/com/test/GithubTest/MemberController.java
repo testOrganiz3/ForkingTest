@@ -83,6 +83,10 @@ public class MemberController {
     public void upstreamPullCheck6(){
         System.out.println("upstream Pull Check6");
     }
+    public void upstreamPullCheck7(){
+        System.out.println("upstream Pull Check7");
+    }
+
 
 
 
