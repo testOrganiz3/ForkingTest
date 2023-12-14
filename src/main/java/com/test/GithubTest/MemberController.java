@@ -70,5 +70,9 @@ public class MemberController {
         System.out.println("upstream Pull Check4");
     }
 
+    public void upstreamPullCheck5(){
+        System.out.println("upstream Pull Check5");
+    }
+
 
 }
