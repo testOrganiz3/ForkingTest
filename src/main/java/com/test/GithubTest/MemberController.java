@@ -75,4 +75,21 @@ public class MemberController {
     }
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+    public void originLocalPull5(){
+        System.out.println("originLocalPull5");
+    }
+
+
 }
