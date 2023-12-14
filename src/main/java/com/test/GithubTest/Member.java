@@ -21,6 +21,8 @@ public class Member {
 
     private int grade;
 
+    private String brother;
+
     @Builder
     public Member(String name){
         this.name=name;
