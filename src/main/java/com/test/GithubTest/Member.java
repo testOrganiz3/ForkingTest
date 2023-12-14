@@ -19,6 +19,8 @@ public class Member {
 
     private int age;
 
+    private int grade;
+
     @Builder
     public Member(String name){
         this.name=name;
