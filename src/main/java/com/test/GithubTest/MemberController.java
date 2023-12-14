@@ -104,8 +104,12 @@ public class MemberController {
     public void afterNoonUpstream1(){
         System.out.println("afterNoonUpStream1");
     }
-    public void afterNoonUpstream2(){
+
+    public void afterNoonUpstream2() {
         System.out.println("afterNoonUpStream2");
+    }
+    public void afterNoonLocal2(){
+        System.out.println("afterNoonLocal2");
     }
 
 
