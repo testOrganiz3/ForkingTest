@@ -97,6 +97,10 @@ public class MemberController {
     public void upstreamPullCheck8(){
         System.out.println("upstream Pull Check");
     }
+
+    public void afterNoonLocal1() {
+        System.out.println("afterNoonLocal1");
+    }
     public void afterNoonUpstream1(){
         System.out.println("afterNoonUpStream1");
     }
