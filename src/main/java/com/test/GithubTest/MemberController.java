@@ -49,5 +49,9 @@ public class MemberController {
 
     }
 
+    public void originLocalPull2(){
+        System.out.println("originLocalPull2");
+    }
+
 
 }
