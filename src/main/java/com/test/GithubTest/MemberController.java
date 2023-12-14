@@ -58,8 +58,12 @@ public class MemberController {
 
     }
 
-    public void upstreamPullCheck3(){
+
+    public void upstreamPullCheck3() {
         System.out.println("upstream Pull check3");
+    }
+    public void originLocalPull3(){
+        System.out.println("originLocalPull3");
     }
 
 
