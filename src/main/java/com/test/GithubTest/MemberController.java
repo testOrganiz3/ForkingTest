@@ -44,5 +44,9 @@ public class MemberController {
         System.out.println("pull check1");
     }
 
+    public void upstreamPullCheck2(){
+        System.out.println("upstream Pull check2");
+    }
+
 
 }
