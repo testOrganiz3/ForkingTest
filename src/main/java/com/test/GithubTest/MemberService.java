@@ -23,4 +23,8 @@ public class MemberService {
 
     }
 
+    public void Nothing(){
+        System.out.println("Nothing");
+    }
+
 }
