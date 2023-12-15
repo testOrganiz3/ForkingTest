@@ -112,6 +112,10 @@ public class MemberController {
         System.out.println("afterNoonLocal2");
     }
 
+    public void nextDayTest(){
+        System.out.println("NextDayTest");
+    }
+
 
 
 
