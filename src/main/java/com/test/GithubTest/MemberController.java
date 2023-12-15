@@ -111,6 +111,9 @@ public class MemberController {
     public void afterNoonLocal2(){
         System.out.println("afterNoonLocal2");
     }
+    public void nextDayLocal1(){
+        System.out.println("nextDayLocal1");
+    }
 
     public void nextDayTest(){
         System.out.println("NextDayTest");
