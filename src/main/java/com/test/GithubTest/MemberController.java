@@ -115,6 +115,10 @@ public class MemberController {
         System.out.println("nextDayLocal1");
     }
 
+    public void nextDayTest(){
+        System.out.println("NextDayTest");
+    }
+
 
 
 
