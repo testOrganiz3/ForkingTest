@@ -134,9 +134,9 @@ public class MemberController {
         System.out.println("NextDayTest");
     }
 
-    public void finalDayReal2(){
+    public void finalDayReal2() {
         System.out.println("finalDayReal2");
-
+    }
     public void finalDayLocal2(){
         System.out.println("finalDayLocal2");
 
