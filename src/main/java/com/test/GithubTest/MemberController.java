@@ -115,9 +115,16 @@ public class MemberController {
 
         System.out.println("nextDayLocal1");
     }
+
+    public void finalDayLocal1(){
+        System.out.println("finalDayLocal1");
+    }
+
+
     public void finalDayLocal(){
         System.out.println("finalDayReal");
     }
+
     public void nextDayTest(){
         System.out.println("NextDayTest");
     }
