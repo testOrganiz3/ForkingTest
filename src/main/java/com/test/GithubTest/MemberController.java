@@ -134,12 +134,17 @@ public class MemberController {
         System.out.println("NextDayTest");
     }
 
-    public void finalDayReal2(){
+    public void finalDayReal2() {
         System.out.println("finalDayReal2");
-
-    public void finalDayLocal2(){
-        System.out.println("finalDayLocal2");
-
+    }
+    public void kkkkkkkkkFake(){
+        System.out.println("kkkkkkkkkFake");
+    }
+    public void kkkkkkkkkFake2(){
+        System.out.println("kkkkkkkkkFake");
+    }
+    public void kkkkkkkkkFake3(){
+        System.out.println("kkkkkkkkkFake");
     }
     public void kkkkkReal(){
         System.out.println("kkkkkREal");
