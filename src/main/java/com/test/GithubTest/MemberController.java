@@ -139,7 +139,9 @@ public class MemberController {
     }
     public void finalDayLocal2(){
         System.out.println("finalDayLocal2");
-
+    }
+    public void kkkkkkkkkFake(){
+        System.out.println("kkkkkkkkkFake");
     }
 
 
