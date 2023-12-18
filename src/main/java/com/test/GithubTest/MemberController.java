@@ -146,6 +146,15 @@ public class MemberController {
     public void kkkkkkkkkFake3(){
         System.out.println("kkkkkkkkkFake");
     }
+    public void hi(){
+        System.out.println("안녕안녕하세요");
+        System.out.println("안녕안녕하세요");
+        System.out.println("안녕안녕하세요");
+        System.out.println("안녕안녕하세요");
+        System.out.println("안녕안녕하세요");
+        System.out.println("안녕안녕하세요");
+        System.out.println("안녕안녕하세요");
+    }
 
 
 
