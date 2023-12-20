@@ -137,6 +137,9 @@ public class MemberController {
     public void finalDayReal2() {
         System.out.println("finalDayReal2");
     }
+    public void finalDayLocal2() {
+        System.out.println("finalDayLocal2");
+    }
     public void kkkkkkkkkFake(){
         System.out.println("kkkkkkkkkFake");
     }
@@ -146,7 +149,8 @@ public class MemberController {
     public void kkkkkkkkkFake3(){
         System.out.println("kkkkkkkkkFake");
     }
-    public void hi(){
+
+    public void hi() {
         System.out.println("안녕안녕하세요");
         System.out.println("안녕안녕하세요");
         System.out.println("안녕안녕하세요");
@@ -154,6 +158,12 @@ public class MemberController {
         System.out.println("안녕안녕하세요");
         System.out.println("안녕안녕하세요");
         System.out.println("안녕안녕하세요");
+    }
+    public void kkkkkReal(){
+        System.out.println("kkkkkREal");
+    }
+    public void aaaaReal(){
+        System.out.println("aaaaReal");
     }
 
 
