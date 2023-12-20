@@ -10,6 +10,7 @@ public class JinuSecondController {
         System.out.println("functionFork 기능 구현");
         System.out.println("functionReal 기능 구현");
         System.out.println("fork fourone 기능 구현");
+        System.out.println("Real samOpal 기능 구현");
 
     }
 }
