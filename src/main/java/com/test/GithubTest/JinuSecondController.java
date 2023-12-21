@@ -12,7 +12,9 @@ public class JinuSecondController {
         System.out.println("fork fourone 기능 구현");
         System.out.println("Real samOpal 기능 구현");
         System.out.println("Real next day 12-21 기능 구현");
+        System.out.println("Real: 12-21 1시 28분");
         System.out.println("fork 12-21 기능 구현");
+
 
     }
 }
