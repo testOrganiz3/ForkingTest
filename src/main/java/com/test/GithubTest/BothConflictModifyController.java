@@ -8,4 +8,7 @@ public class BothConflictModifyController {
         System.out.println("Fork: BothModified");
     }
 
+    public void BothModifiedClone(){
+        System.out.println("Clone: BothModified");
+    }
 }
