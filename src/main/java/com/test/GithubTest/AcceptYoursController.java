@@ -4,7 +4,7 @@ public class AcceptYoursController {
     public void AcceptYoursController(){
         System.out.println("Clone:AcceptYoursController");
     }
-    public void AcceptYoursClone(){
-        System.out.println("Clone: AcceptYours");
+    public void AcceptYoursFork(){
+        System.out.println("Fork: AcceptYours");
     }
 }
